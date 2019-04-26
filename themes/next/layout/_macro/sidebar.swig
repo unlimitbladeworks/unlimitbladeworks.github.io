@@ -118,10 +118,6 @@
             </div>
           {% endif %}
 
-      <div id="music163player">
-        <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="https://music.163.com/outchain/player?type=0&id=2407258591&auto=1&height=430"></iframe>
-      </div>
-
           {# Blogroll #}
           {% if theme.links %}
             <div class="links-of-blogroll motion-element {{ "links-of-blogroll-" + theme.links_layout | default('inline') }}">
@@ -139,6 +135,7 @@
             </div>
           {% endif %}
 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=110 src="https://music.163.com/outchain/player?type=0&id=158010361&auto=1&height=90"></iframe>
           {% include '../_custom/sidebar.swig' %}
         </div>
       </section>
