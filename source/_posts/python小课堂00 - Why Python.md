@@ -1,3 +1,9 @@
+---
+title: python小课堂00 - Why Python
+date: 2019-04-26 23:10:14
+tags: python小课堂
+---
+
 ##  python小课堂00
 
 
