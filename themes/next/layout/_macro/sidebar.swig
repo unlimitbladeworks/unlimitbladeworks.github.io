@@ -109,6 +109,15 @@
             </div>
           {% endif %}
 
+          
+          <!-- 音乐播放器 -->
+          <div>
+            {% if theme.background_music %}
+                <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=110 src="{{ theme.background_music }}"></iframe>
+            {% endif %}
+          </div>
+
+
           {% set cc = {'by': 1, 'by-nc': 1, 'by-nc-nd': 1, 'by-nc-sa': 1, 'by-nd': 1, 'by-sa': 1, 'zero': 1} %}
           {% if theme.creative_commons in cc %}
             <div class="cc-license motion-element" itemprop="license">
@@ -135,8 +144,7 @@
             </div>
           {% endif %}
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=110 src="https://music.163.com/outchain/player?type=0&id=158010361&auto=1&height=90"></iframe>
-          {% include '../_custom/sidebar.swig' %}
+         {% include '../_custom/sidebar.swig' %}
         </div>
       </section>
 
