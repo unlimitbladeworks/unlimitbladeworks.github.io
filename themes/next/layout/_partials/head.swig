@@ -4,7 +4,7 @@
 <script src="//cdn.bootcss.com/pace/1.0.2/pace.min.js"></script>
 <link href="//cdn.bootcss.com/pace/1.0.2/themes/pink/pace-theme-flash.css" rel="stylesheet">
 <meta name="theme-color" content="{{ theme.android_chrome_color }}">
-<meta name="referrer" content="no-referrer" />
+<meta name="referrer" content="never" />
 <script>
     (function(){
         if('{{ page.password }}'){
