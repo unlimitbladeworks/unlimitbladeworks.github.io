@@ -83,7 +83,7 @@ deploy:
   branch: master
 
 # 网易云音乐外链
-background_music: //music.163.com/outchain/player?type=2&id=823754244&auto=1&height=66
+# background_music: //music.163.com/outchain/player?type=2&id=823754244&auto=1&height=66
 
 
 # Live2D
