@@ -132,9 +132,13 @@ scheme: Pisces
 # Key is the link label showing to end users.
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
-#social:
-  #GitHub: https://github.com/yourname || github
-  #E-Mail: mailto:yourname@gmail.com || envelope
+social:
+  GitHub: https://github.com/unlimitbladeworks || github
+  E-Mail: mailto:13121347080@sina.cn || envelope
+  ZhiHu: https://www.zhihu.com/people/he-he-da-92-32-97/activities || registered
+  CSDN: https://blog.csdn.net/s740556472 || copyright
+  WeChat: https://mp.weixin.qq.com/s?__biz=MzAxMTM3MDk2Ng==&mid=2451658629&idx=1&sn=1702de2411791b72fde89b7c25f22fcb&chksm=8c97df3cbbe0562a573776720880acfd176cfdeffbb21a9680bc9250787c0ee3027e7454f100&token=2021345775&lang=zh_CN#rd|| comments
+  Imooc: https://www.imooc.com/u/2855983 || medium
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
@@ -148,6 +152,8 @@ social_icons:
   enable: true
   icons_only: false
   transition: false
+
+
 
 # Blog rolls
 links_icon: link
