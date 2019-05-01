@@ -391,8 +391,8 @@ changyan:
 # more info please open https://valine.js.org
 valine:
   enable: true
-  appid:  kAUpXVVbRLmz8EMmQDHoFTOU-gzGzoHsz
-  appkey:  tP5w69VIMRpbIAibefWhlFAx
+  appid: kAUpXVVbRLmz8EMmQDHoFTOU-gzGzoHsz
+  appkey: tP5w69VIMRpbIAibefWhlFAx
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki
   verify: false # Verification code
   placeholder: Just go go # comment box placeholder
@@ -543,9 +543,9 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: kAUpXVVbRLmz8EMmQDHoFTOU-gzGzoHsz
+  app_key: tP5w69VIMRpbIAibefWhlFAx
 
 # Another tool to show number of visitors to each article.
 # visit https://console.firebase.google.com/u/0/ to get apiKey and projectId
