@@ -110,14 +110,20 @@
           {% endif %}
 
           
-          <!-- 音乐播放器 -->
+          <!-- 网易云音乐播放器 -->
           <div>
-            <!-- -->
+            <!-- 
             {% if theme.background_music %}
                 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=110 src="{{ theme.background_music }}"></iframe>
-            {% endif %}
-          </div>
+            {% endif %}-->
 
+            <!-- aplayer -->
+            <link rel="stylesheet" href="/dist/APlayer.min.css">
+            <div id="aplayer"></div>
+            <script type="text/javascript" src="/dist/APlayer.min.js"></script>
+            <script type="text/javascript" src="/dist/music.js"></script>
+          </div>
+          
 
           {% set cc = {'by': 1, 'by-nc': 1, 'by-nc-nd': 1, 'by-nc-sa': 1, 'by-nd': 1, 'by-sa': 1, 'zero': 1} %}
           {% if theme.creative_commons in cc %}
