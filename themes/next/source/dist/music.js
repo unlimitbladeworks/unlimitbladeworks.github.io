@@ -55,15 +55,81 @@ const ap = new APlayer({
         cover: 'http://p1.music.126.net/5MmXpaP9r88tNzExPGMI8Q==/109951163370350985.jpg?param=130y130',
       },
       {
-        name: '小幸运',
-        artist: '田馥甄',
-        url: 'http://www.ytmp3.cn/down/55491.mp3',
-        cover: 'http://p1.music.126.net/5MmXpaP9r88tNzExPGMI8Q==/109951163370350985.jpg?param=130y130',
-      },
-      {
         name: '哼',
         artist: '冯提莫',
         url: 'http://www.ytmp3.cn/down/46744.mp3',
+        cover: 'http://p1.music.126.net/5MmXpaP9r88tNzExPGMI8Q==/109951163370350985.jpg?param=130y130',
+      },
+      {
+        name: '(《刀剑神域》GGO篇ED)-祈Inory',
+        artist: 'Startear',
+        url: 'http://www.ytmp3.cn/down/53144.mp3',
+        cover: 'http://p1.music.126.net/5MmXpaP9r88tNzExPGMI8Q==/109951163370350985.jpg?param=130y130',
+      },
+      {
+        name: '一百万个可能 (钢琴版)',
+        artist: '薛佳piano',
+        url: 'http://www.ytmp3.cn/down/55739.mp3',
+        cover: 'http://p1.music.126.net/5MmXpaP9r88tNzExPGMI8Q==/109951163370350985.jpg?param=130y130',
+      },
+      {
+        name: '左耳',
+        artist: '赵薇',
+        url: 'http://www.ytmp3.cn/down/48856.mp3',
+        cover: 'http://p1.music.126.net/5MmXpaP9r88tNzExPGMI8Q==/109951163370350985.jpg?param=130y130',
+      },
+      {
+        name: '后来',
+        artist: '刘若英',
+        url: 'http://www.ytmp3.cn/down/43957.mp3',
+        cover: 'http://p1.music.126.net/5MmXpaP9r88tNzExPGMI8Q==/109951163370350985.jpg?param=130y130',
+      },
+      {
+        name: '如约而至',
+        artist: '许嵩',
+        url: 'http://www.ytmp3.cn/down/47895.mp3',
+        cover: 'http://p1.music.126.net/5MmXpaP9r88tNzExPGMI8Q==/109951163370350985.jpg?param=130y130',
+      },
+      {
+        name: 'Beethoven Virus',
+        artist: 'Diana Boncheva',
+        url: 'http://www.ytmp3.cn/down/60322.mp3',
+        cover: 'http://p1.music.126.net/5MmXpaP9r88tNzExPGMI8Q==/109951163370350985.jpg?param=130y130',
+      },
+      {
+        name: '金玉良缘',
+        artist: '李琦',
+        url: 'http://www.ytmp3.cn/down/32151.mp3',
+        cover: 'http://p1.music.126.net/5MmXpaP9r88tNzExPGMI8Q==/109951163370350985.jpg?param=130y130',
+      },
+      {
+        name: '落花',
+        artist: '林心如',
+        url: 'http://www.ytmp3.cn/down/51311.mp3',
+        cover: 'http://p1.music.126.net/5MmXpaP9r88tNzExPGMI8Q==/109951163370350985.jpg?param=130y130',
+      },
+      {
+        name: '往后余生',
+        artist: '徐环',
+        url: 'http://www.ytmp3.cn/down/48664.mp3',
+        cover: 'http://p1.music.126.net/5MmXpaP9r88tNzExPGMI8Q==/109951163370350985.jpg?param=130y130',
+      },
+      {
+        name: '倒数',
+        artist: 'g.e.m.邓紫棋',
+        url: 'http://www.ytmp3.cn/down/52564.mp3',
+        cover: 'http://p1.music.126.net/5MmXpaP9r88tNzExPGMI8Q==/109951163370350985.jpg?param=130y130',
+      },
+      {
+        name: 'I DO',
+        artist: '陈奕迅',
+        url: 'http://www.ytmp3.cn/down/35618.mp3',
+        cover: 'http://p1.music.126.net/5MmXpaP9r88tNzExPGMI8Q==/109951163370350985.jpg?param=130y130',
+      },
+      {
+        name: '这么近那么远',
+        artist: '张靓颖',
+        url: 'http://www.ytmp3.cn/down/33663.mp3',
         cover: 'http://p1.music.126.net/5MmXpaP9r88tNzExPGMI8Q==/109951163370350985.jpg?param=130y130',
       }
     ]
